@@ -34,8 +34,8 @@ Tudo isso sem a necessidade de baixar grandes volumes de dados localmente, otimi
 ---
 
 ## 👨‍🏫 Instrutores
-- **Christhian Cunha**  
-- **Marcos Aurélio**  
+- **Christhian Cunha** *(AmbGEO)* 
+- **Marcos Aurélio**   *(AmbGEO)*
 - **Luana Lavagnoli** *(AmbGEO)*  
 
 ---
@@ -46,8 +46,8 @@ Tudo isso sem a necessidade de baixar grandes volumes de dados localmente, otimi
 ---
 
 ## 📅 Data e Local
-- **Data:** 16 e 17/08/2025  
-- **Local:** Udesc Balneário Camboriú *(sala a definir)*
+- **Data:** 17/08/2025  
+- **Local:** Udesc Balneário Camboriú
 
 ---
 
